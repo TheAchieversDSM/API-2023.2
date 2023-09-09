@@ -29,16 +29,15 @@
   <img src="https://img.shields.io/badge/Discord-23121011?style=for-the-badge&logo=discord&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/WhatsApp-23121011?style=for-the-badge&logo=whatsapp&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/Figma-23121011?style=for-the-badge&logo=figma&logoColor=000000&color=CED4DA"/>
-  <img src="https://img.shields.io/badge/CSS3-23121011?style=for-the-badge&logo=css3&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/react_native-23121011?style=for-the-badge&logo=react&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/Expo-23121011?style=for-the-badge&logo=expo&logoColor=000000&color=CED4DA" /> 
+  <img src="https://img.shields.io/badge/Axios-23121011?style=for-the-badge&logo=axios&logoColor=000000&color=CED4DA" /> 
   <br> 
   <img src="https://img.shields.io/badge/JavaScript-23121011?style=for-the-badge&logo=javascript&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/Node.js-23121011?style=for-the-badge&logo=nodedotjs&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/TypeScript-23121011?style=for-the-badge&logo=typescript&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/MySQL-23121011?style=for-the-badge&logo=mysql&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/Styled_Components-23121011?style=for-the-badge&logo=styled-components&logoColor=000000&color=CED4DA" /> 
-  <img src="https://img.shields.io/badge/Axios-23121011?style=for-the-badge&logo=axios&logoColor=000000&color=CED4DA" /> 
 </p>
 
 <br>
