@@ -1,4 +1,4 @@
-[submodule "BackEnd"]
-	path = BackEnd
+[submodule "backend"]
+	path = backend
 	url = https://github.com/TheAchieversDSM/API-2023.2-Back-End
 	branch = develop
