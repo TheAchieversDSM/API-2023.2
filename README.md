@@ -71,7 +71,7 @@ Sprint ID | Data | Histórico | Status |
 
 <h4> User Stories</h4>
 <br>
-
+<img src="https://imgur.com/sFx1XbJ.jpg" />
 <br>
 
 <span id="documentacao">
