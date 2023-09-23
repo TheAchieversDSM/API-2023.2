@@ -6,7 +6,6 @@
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#entregas">Entregas</a> • 
      <a href="#backlog">Backlogs e User Stories</a> •
-     <a href="#documentacao">Documentação</a> •
      <a href="#equipe">Equipe</a> 
 </p>
 
@@ -42,6 +41,17 @@
 
 <br>
 
+> 🔗 Links gerais
+> <ul>
+> <li>Wireframe: <a href="https://www.figma.com/file/6JvRGNVVKiTaAZsfYGI93n/API---Oracle-Academy?type=design&node-id=0-1&mode=design&t=wAoRes8dS3QaA1LA-0">acesse aqui!</a></li>
+> <li>Ferramenta de Gestão de Tarefas: <a href="https://theachievers.atlassian.net/jira/software/projects/API20232/boards/3/timeline?shared=&atlOrigin=eyJpIjoiNTNmODdlZDUzNjQ4NGFiYWIxMmEyZGQzZjBkODIyMGYiLCJwIjoiaiJ9">acesse aqui!</a></li>
+> <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Back-End">acesse aqui!</a></li>
+> <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Mobile">acesse aqui!</a></li>
+> <li>Vídeo Sprint Review 1: acesse aqui!</li>
+> </ul>
+
+<br>
+
 <span id="entregas">
 
 ### :dart: Entregas
@@ -73,24 +83,6 @@ Sprint ID | Data | Histórico | Status |
 <br>
 <img src="https://imgur.com/sFx1XbJ.jpg" />
 <br>
-
-<span id="documentacao">
- 
- ### :clipboard: Documentação
- 
-<h4>Modelo de dados</h4>
-<br>
-<br>
-
-<br>
-
-> 🔗 Links gerais
-> <ul>
-> <li>Wireframe: <a href="https://www.figma.com/file/6JvRGNVVKiTaAZsfYGI93n/API---Oracle-Academy?type=design&node-id=0-1&mode=design&t=wAoRes8dS3QaA1LA-0">acesse aqui!</a></li>
-> <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Back-End">acesse aqui!</a></li>
-> <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Mobile">acesse aqui!</a></li>
-> </ul>
-
 <br>
 
 <span id="equipe">
