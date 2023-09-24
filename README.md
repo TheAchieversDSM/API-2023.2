@@ -47,7 +47,7 @@
 > <li>Ferramenta de Gestão de Tarefas: <a href="https://theachievers.atlassian.net/jira/software/projects/API20232/boards/3/timeline?shared=&atlOrigin=eyJpIjoiNTNmODdlZDUzNjQ4NGFiYWIxMmEyZGQzZjBkODIyMGYiLCJwIjoiaiJ9">acesse aqui!</a></li>
 > <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Back-End">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Mobile">acesse aqui!</a></li>
-> <li>Vídeo Sprint Review 1: acesse aqui!</li>
+> <li>Vídeo Sprint Review 1: <a href="https://www.youtube.com/watch?v=cgHzr4klyfQ">acesse aqui!</li>
 > </ul>
 
 <br>
@@ -58,7 +58,7 @@
 
 Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
-#1 | 04.09.2023 - 24.09.2023 | 🚧 | Em andamento
+#1 | 04.09.2023 - 24.09.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.2/wiki/API%E2%80%902023.2-Sprint--1">Acesse!</a> | Finalizada
 #2 | 25.09.2023 - 15.10.2023 | 🛑 | Não Iniciada
 #3 | 16.10.2023 - 05.11.2023 | 🛑 | Não Iniciada
 #4 | 06.11.2023 - 26.11.2023 | 🛑 | Não Iniciada
@@ -71,17 +71,17 @@ Sprint ID | Data | Histórico | Status |
  
 <h4> Épicos</h4>
 <br>
-<img src="https://i.imgur.com/XWgDeaC.jpg" />
+<img src="https://i.imgur.com/XWgDeaC.jpg" width="800" />
 </br>
 
 <h4> Backlog do produto</h4>
 <br>
-<img src="https://i.imgur.com/qmoMktl.jpg" />
+<img src="https://i.imgur.com/qmoMktl.jpg" width="800" />
 </br>
 
 <h4> User Stories</h4>
 <br>
-<img src="https://imgur.com/sFx1XbJ.jpg" />
+<img src="https://imgur.com/sFx1XbJ.jpg" width="800" />
 <br>
 <br>
 
