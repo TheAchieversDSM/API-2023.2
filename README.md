@@ -47,7 +47,7 @@
 > <li>Ferramenta de Gestão de Tarefas: <a href="https://theachievers.atlassian.net/jira/software/projects/API20232/boards/3/timeline?shared=&atlOrigin=eyJpIjoiNTNmODdlZDUzNjQ4NGFiYWIxMmEyZGQzZjBkODIyMGYiLCJwIjoiaiJ9">acesse aqui!</a></li>
 > <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Back-End">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2023.2-Mobile">acesse aqui!</a></li>
-> <li>Vídeo Sprint Review 1: <a href="https://www.youtube.com/watch?v=cgHzr4klyfQ">acesse aqui!</li>
+> <li>Vídeo Sprint Review 1: <a href="https://www.youtube.com/watch?v=q4ETCxVIZbg">acesse aqui!</li>
 > </ul>
 
 <br>
