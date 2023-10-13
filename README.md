@@ -71,12 +71,12 @@ Sprint ID | Data | Histórico | Status |
  
 <h4> Épicos</h4>
 <br>
-<img src="https://i.imgur.com/XWgDeaC.jpg" width="800" />
+<img src="https://imgur.com/3pXnffm.jpg" width="800" />
 </br>
 
 <h4> Backlog do produto</h4>
 <br>
-<img src="https://i.imgur.com/qmoMktl.jpg" width="800" />
+<img src="https://imgur.com/5v5KpDs.jpg" width="800" />
 </br>
 
 <h4> User Stories</h4>
