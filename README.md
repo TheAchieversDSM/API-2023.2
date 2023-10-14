@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Node.js-23121011?style=for-the-badge&logo=nodedotjs&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/TypeScript-23121011?style=for-the-badge&logo=typescript&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/MySQL-23121011?style=for-the-badge&logo=mysql&logoColor=000000&color=CED4DA"/> 
+  <img src="https://img.shields.io/badge/MongoDB-23121011?style=for-the-badge&logo=mongodb&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/Styled_Components-23121011?style=for-the-badge&logo=styled-components&logoColor=000000&color=CED4DA" /> 
 </p>
 
@@ -59,7 +60,7 @@
 Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
 #1 | 04.09.2023 - 24.09.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.2/wiki/API%E2%80%902023.2-Sprint--1">Acesse!</a> | Finalizada
-#2 | 25.09.2023 - 15.10.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.2/wiki/API%E2%80%902023.2-Sprint-2">Acesse!</a> | Iniciada
+#2 | 25.09.2023 - 15.10.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.2/wiki/API%E2%80%902023.2-Sprint-2">Acesse!</a> | Em andamento
 #3 | 16.10.2023 - 05.11.2023 | 🛑 | Não Iniciada
 #4 | 06.11.2023 - 26.11.2023 | 🛑 | Não Iniciada
 
