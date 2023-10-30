@@ -61,7 +61,7 @@ Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
 #1 | 04.09.2023 - 24.09.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.2/wiki/API%E2%80%902023.2-Sprint--1">Acesse!</a> | Finalizada
 #2 | 25.09.2023 - 15.10.2023 | <a href="https://github.com/TheAchieversDSM/API-2023.2/wiki/API%E2%80%902023.2-Sprint-2">Acesse!</a> | Finalizada
-#3 | 16.10.2023 - 05.11.2023 | 🛑 | Não Iniciada
+#3 | 16.10.2023 - 05.11.2023 | 🚧 | Em Andamento
 #4 | 06.11.2023 - 26.11.2023 | 🛑 | Não Iniciada
 
 <br>
@@ -93,7 +93,6 @@ Função | Nome | GitHub & LinkedIn
 -------|------|-------------------
 Scrum Master | Maria Clara Alves de Faria | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/mclaralvs) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mclaralvs/)
 Product Owner | Matheus Henrique Lemes Sakuragui | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/MatheusSakuragui) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/)
-Dev Team | Antônio Alex | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Nepoun) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/)
 Dev Team | Gabriel Souza Bicho Nunes | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/ZeroPirata) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/)
 Dev Team | Mariana Ayumi Tamay | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Mariayumi) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mariana-tamay-159582222/)
 Dev Team | Nathan da Motta Truyts | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Nathtruyts) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/nathan-truyts-43737020a/)
