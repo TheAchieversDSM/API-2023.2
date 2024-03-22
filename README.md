@@ -16,7 +16,7 @@
 <p>Para cumprir essa importante missão, promovendo, também, a diversidade e inclusão social, o planejamento e a organização são imprescindíveis. O desafio proposto foi justamente por essa razão: um aplicativo para para auxiliar na gestão de tarefas com questões de priorização.</p>
 <p>Para o sucesso desse projeto, além do gerenciamento de atividades, também é necessário uma parte reservada para gráficos de mensura sobre os resultados obtidos em um intervalo de tempo.</p>
 
- #### 📌 Status do projeto: Em andamento. 🚧
+ #### 📌 Status do projeto: Finalizado! 🏁
   
  <br>
  
